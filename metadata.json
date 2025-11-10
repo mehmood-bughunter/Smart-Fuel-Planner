@@ -1,0 +1,7 @@
+{
+  "name": "Smart Fuel Planner",
+  "description": "Helps users calculate fuel costs, find cheaper fuel stations, and get eco-driving tips using real-time Google Maps integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
